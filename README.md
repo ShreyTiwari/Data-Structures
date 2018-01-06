@@ -1,6 +1,12 @@
 # Data-Structures
 This repository contains programs pertaining to most of the basic data structures.
 
+If you are a ubuntu user then open the terminal and move to the directory where the program is saved.
+To execute the code execute the folowing instructions:
+  1. make -f <make file name>.mk
+  2. !.
+Now you are good to go!!!
+
 If you are a windows user or just prefer to have all the code in one file, follow the steps below....
 
   1. Create a new file
