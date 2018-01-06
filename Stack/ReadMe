@@ -1,0 +1,11 @@
+The program demonstrates some basic stack operations.
+
+Possible Operations that can be carried out:
+
+	1.Push	  : Push an element into the stack.
+	2.Pop 	  : Pop the top of the stack.
+	3.Peek	  : Get the top of the stack.
+	4.Display : Display the contents of the stack.
+	5.Inspect : Check if the expression contained in the stack is valid or not.
+		    [ Basically matches opening and closing brackets ]
+	6.Postfix : Converts the "VALID" infix expression contained in the stack to postfix.
