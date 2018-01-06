@@ -1,0 +1,5 @@
+The program dones the following things:
+
+	1. Take two lists as inputs and sort them while the data is being accepted.
+	2. Merge the lists to produce one sorted list.
+	3. Display the results.
