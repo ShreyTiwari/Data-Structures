@@ -1,0 +1,7 @@
+The program takes in a valid postfix expression, builds a expression tree and display's:
+
+	a. Infix Form
+	b. Prefix Form
+	c. Postfix Form
+
+Then it evaluates the answer to the entered expression and displays it.
