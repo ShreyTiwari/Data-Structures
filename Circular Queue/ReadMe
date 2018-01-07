@@ -1,0 +1,7 @@
+The program demonstrates the array implementation of circular queues.
+
+Basic functions implemented:
+
+	a. Enqueue
+	b. Dequeue
+	c. Display
