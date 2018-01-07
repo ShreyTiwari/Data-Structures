@@ -1,0 +1,9 @@
+The program uses singly linked list to implement Sorted Priority Queues.
+
+Functions:
+
+	a. Insert
+	b. Remove
+	c. Display
+
+In sorted Priority Queues Insertion can be time consuming but Deletion is quick.

@@ -1,0 +1,9 @@
+The program uses singly linked list to implement Unsorted Priority Queues.
+
+Functions:
+
+	a. Insert
+	b. Remove
+	c. Display
+
+In unsorted Priority Queues Deletion can be time consuming but Insertion is quick.
